@@ -1,4 +1,4 @@
-# Hello World Example
+# ESP32_LVGL8.3_Example
 
 Starts a FreeRTOS task to print "Hello World".
 
