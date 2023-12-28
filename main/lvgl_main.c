@@ -56,7 +56,7 @@ void app_main(void)
     {
         .intr_type      = GPIO_INTR_DISABLE,
         .mode           = GPIO_MODE_INPUT,
-        .pin_bit_mask   = GPIO_SEL_4,
+        .pin_bit_mask   = GPIO_SEL_19,
         .pull_down_en   = GPIO_PULLDOWN_DISABLE,
         .pull_up_en     = GPIO_PULLUP_ENABLE
     };
